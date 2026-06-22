@@ -4,13 +4,13 @@ AI transformation operator, technology investor, and builder of practical agent 
 
 I work across strategy, investing, and implementation: evaluating AI-native companies, turning research into operating judgment, and building small tools that make agent-assisted work more reliable.
 
-## Hubs
+## Selected Work
 
-| Hub | What goes here |
+| Project | What it is |
 | --- | --- |
-| [codex-skills](https://github.com/KujalaLucien/codex-skills) | Reusable Codex skills for research, diligence, and publishing workflows |
-| [essays](https://github.com/KujalaLucien/essays) | Long-form thinking, research notes, and publishable drafts |
-| [tools](https://github.com/KujalaLucien/tools) | Small utilities, scripts, and lightweight products |
+| [meeting-notes-context-engineering](https://github.com/KujalaLucien/meeting-notes-context-engineering) | Essay on meeting notes as the first layer of enterprise context engineering |
+| [dynamic-search](https://github.com/KujalaLucien/dynamic-search) | Codex skill for adaptive public-internet research |
+| [vibe-coding-always-on](https://github.com/KujalaLucien/vibe-coding-always-on) | Windows tray utility for long coding and agent sessions |
 
 ## Current Focus
 
@@ -19,7 +19,3 @@ I work across strategy, investing, and implementation: evaluating AI-native comp
 - Agent tooling, source-backed diligence, and repeatable knowledge work
 - Early-stage technology investing across AI infrastructure and applications
 
-## Featured
-
-- `dynamic-search`: source-backed internet research workflow for fast-moving topics
-- `vibe-coding-always-on`: Windows tray utility for long coding and agent sessions
